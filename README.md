@@ -32,7 +32,7 @@ First install requirements:
 `pip install -r requirements.txt`
 
 To test the model you can either run:
-`python run.py --image-path ./data/7.jpg`
+`python run.py --input-path ./data/7.jpg`
 
 Or you can test it through web app:
 `streamlit run app.py`
